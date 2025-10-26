@@ -1,17 +1,5 @@
 # VibeCoding - 포트폴리오 템플릿
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
-</div>
-
-<br />
-
-> 🚀 ** 포트폴리오 템플릿**  
- 실시간으로 내용을 수정하고, 이미지를 업로드하고, 레이아웃을 커스터마이징.
-
 <br />
 
 ## ✨ 주요 기능
