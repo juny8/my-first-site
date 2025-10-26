@@ -14,12 +14,6 @@
 
 <br />
 
-## 📺 강의 영상
-
-- [fork 후 편집 및 배포 강의](https://www.youtube.com/watch?v=U6zL8qittGk)
-
-<br />
-
 ## ✨ 주요 기능
 
 ### 🎯 **인라인 편집 시스템**
@@ -267,29 +261,4 @@ npm start
 
 <br />
 
-## 📄 라이선스
 
-MIT License - 자유롭게 사용하세요!
-
-<br />
-
-## 👨‍💻 제작자
-
-**백상 (Mrbaeksang)**
-- YouTube: [@Mrbaeksang95](https://www.youtube.com/@Mrbaeksang95)
-- Website: [devcom.kr](https://devcom.kr/)
-- Email: qortkdgus95@gmail.com
-
-<br />
-
-## 🙏 감사의 말
-
-이 템플릿이 도움이 되었다면 ⭐️ 스타를 눌러주세요!
-
-<br />
-
----
-
-<div align="center">
-  Made with ❤️ by Mrbaeksang
-</div>
